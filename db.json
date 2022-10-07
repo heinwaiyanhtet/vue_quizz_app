@@ -1,0 +1,139 @@
+{
+  "quizzes" : [
+    {
+      "id": "1",
+      "question": "Anna becomes the b _______ of her family after trying a knot with sugar daddy.",
+      "answer": "breadwinner",
+      "image": {
+        "questionImage":"../../img/breadwinner.jpeg",
+        "answerImage":"../../img/received_3277980119146862.jpeg"
+      }
+    },
+    {
+      "id": "2",
+      "question": "Her excellent flirting skill made her trumatic and now she has realized how c_______ she was.",
+      "answer": "charismatic",
+      "image": {
+        "questionImage":"../../img/charismatic.jpeg",
+        "answerImage":"../../img/received_747089046583927.jpeg"
+      }
+    },
+    {
+      "id": "3",
+      "question": "She felt exhausted because of the i _______ questions that stranger asked.",
+      "answer": "intrusive",
+      "image": {
+        "questionImage":"../../img/intrusive.jpeg",
+        "answerImage":"../../img/received_747788379701910.jpeg"
+      }
+    },
+    {
+      "id": "4",
+      "question": "Some student may develop some kind of i _______ if the school practice a special class where only the gifted one can enter.",
+      "answer": "inferiority complex",
+      "image": {
+        "questionImage":"../../img/inferiority_complex.jpeg",
+        "answerImage":"../../img/received_4913939955377006.jpeg"
+      }
+    },
+    {
+      "id": "5",
+      "question": "The greatest i ________ for everyone is the appreciation.",
+      "answer": "incentive",
+      "image": {
+        "questionImage":"../../img/incentive.jpeg",
+        "answerImage":"../../img/received_3173268909655450.jpeg"
+      }
+    },
+    {
+      "id": "6",
+      "question": "I met a girl at the party and we ___ it ___ off straight away",
+      "answer": "hit off",
+      "image": {
+        "questionImage":"../../img/hit_off.jpeg",
+        "answerImage":"../../img/received_469728841660479.jpeg"
+      }
+    },
+    {
+      "id": "7",
+      "question": "The mother scolded her son for b _______ on the conversation she was having with another adult.",
+      "answer": "butting in",
+      "image": {
+        "questionImage":"../../img/butting_in.jpeg",
+        "answerImage":"../../img/received_869326347391175.webp"
+      }
+    },
+    {
+      "id": "8",
+      "question": "He was in h ___  ___ with the government after he was caught making illegal copies software.",
+      "answer": "hot water",
+      "image": {
+        "questionImage":"../../img/hot_water-min.jpeg",
+        "answerImage":"../../img/received_385663993645746.webp"
+      }
+    },
+    {
+      "id": "9",
+      "question": "Today, my sweetheart is looking s_______ with burmese longyi and blouse as she had never put such a kind of style.",
+      "answer": "spruce",
+      "image": {
+        "questionImage":"../../img/Cute_girl_and_Bubble_milk_tea_logo_cartoon_art_illustration.jpg",
+        "answerImage":"../../img/received_597196638559766.jpeg"
+      }
+    },
+    {
+      "id": "10",
+      "question": "Prince Philip revealed his f________ to his queen staying near her throne for more than 70 years.",
+      "answer": "fidelity",
+      "image": {
+        "questionImage":"../../img/fidelity.jpeg",
+        "answerImage":"../../img/received_485682112984317.jpeg"
+      }
+    },
+    {
+      "id": "11",
+      "question": "When I explained about love , my unattached friends are giving me their p ____ ____ ____.",
+      "answer": "puppy dog eyes",
+      "image": {
+        "questionImage":"../../img/puppy_dog_eye.jpeg",
+        "answerImage":"../../img/received_825316001825305.jpeg"
+      }
+    },
+    {
+      "id": "12",
+      "question": "When their father died , the greedy siblings fought _____ _____ _____ over his will.",
+      "answer": "tooth and nail",
+      "image": {
+        "questionImage":"../../img/group-angry-people-quarrel-argue_107791-13981.jpg",
+        "answerImage":"../../img/received_630760461874853.jpeg"
+      }
+    },
+    {
+      "id": "13",
+      "question": "I agree the shop treated you very badly. But just write a polite letter of complaint. It is not worth making a ___ ___ ____ about it.",
+      "answer":"song and dance",
+      "image": {
+        "questionImage":"../../img/delete-concept-cleaning-digital-memory-tiny-people-deleting-file-move-unnecessary-files_501813-1483.webp",
+        "answerImage":"../../img/received_1092388891639583.jpeg"
+      }
+    },
+    {
+      "id": "14",
+      "question": "Last Christmas was a r_____ day for me as I got some memorable moments.",
+      "answer": "red-letter",
+      "image": {
+        "questionImage":"../../img/christmas.jpg",
+        "answerImage":"../../img/received_578868510595032.jpeg"
+      }
+    },
+    {
+      "id": "15",
+      "question": "If you t____ ____ someone , you criticize them very angrily and strongly in verbal.",
+      "answer": "tear into",
+      "image": {
+        "questionImage":"../../img/hand-drawn-flat-design-blame-illustration_52683-82861.webp",
+        "answerImage":"../../img/received_1035159900484196.jpeg"
+      }
+    }
+  ]
+}
